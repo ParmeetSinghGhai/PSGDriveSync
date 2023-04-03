@@ -101,6 +101,5 @@ You can download the terms and conditions from [Privacy Policy](https://parmeets
 ## Contact Information 
 You can contact me @
 - parmeet.s.ghai@gmail.com 
-- parmeet.s.ghai.storage@gmail.com
 - parmeet.s.ghai.businesssolutions@gmail.com
 
