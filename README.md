@@ -78,9 +78,10 @@ The Application Has That Covered For You and Lets You Do File Transfers From One
 The Application Uses a Familiar User Interface That Most Windows Operation System Applications Use Thus Making it Easier for The User To Use The Application With Familiar and Recognizable Mouse Gestures and Keyboard Commands. 
 
 ## Installation Instructions
-- Download the file "PSGDriveSync_0.2.zip.
-- Unzip its contents to any folder of your choosing. 
-- Run application "PSGDriveSync.exe"
+- Download the file "PSGDriveSync.zip".
+- Verify the SHA256 checksum of the zip then extracts its content only if the hash matches up with the hash given in release notes.
+- Verify the SHA256 checksum of the .exe file with the hash given in release notes.
+- Run application "PSGDriveSync.exe" only if the hash matches up in the above step
 
 ## License 
 This is a Licensed Application. The License Plans are as Follows:
