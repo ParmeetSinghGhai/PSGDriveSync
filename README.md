@@ -1,4 +1,4 @@
-# PSGDriveSync Application
+# PSGDriveSync - Google Drive™ Sync Client
 This application allows users to perform real-time file transfer operations and automated sync operations between 
 - Local Drive to Local Drive
 - Local Drive to Google Drive
